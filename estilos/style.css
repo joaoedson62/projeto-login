@@ -110,12 +110,13 @@ form > input[type=submit] {
     background-color: #53aaa7;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
 form > input[type=submit]:hover {
     background-color: #2d6462;
+   
 }
 
 form > a.botao {
@@ -129,7 +130,7 @@ form > a.botao {
     background-color: white;
     color: #2d6462;
     border: 1px solid #49a09d;
-    border-radius: 7px;
+    border-radius: 10px;
     text-decoration: none;
 }
 
